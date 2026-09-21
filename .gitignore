@@ -1,0 +1,33 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Logs and outputs
+*.log
+*.out
+*.tmp
+
+# Dataset and model files
+data/
+*.csv
+*.zip
+*.h5
+*.pkl
+*.joblib
+*.npy
+
+# VSCode and other IDE settings
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
